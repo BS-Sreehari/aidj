@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-image: url("song.png");
+    background-size: 100%;
+}
+
+h1 {
+    background-color: orange;
+    color: aqua;
+    font-size: 30px;
+}
+
+canvas {
+    border: 10px, solid, black;
+}
+
